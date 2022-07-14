@@ -1,0 +1,21 @@
+{
+  "name": "formulario-de-checkout",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {    
+    "@plug-checkout/core": "^1.4.0",
+    "@plug-checkout/vue": "^1.4.0",
+    "bulma": "^0.9.4",    
+    "vue": "^3.2.25",    
+    "vue-router": "^4.1.2"    
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "vite": "^2.9.9"
+  }
+}
