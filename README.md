@@ -1,7 +1,18 @@
-# Vue 3 + Vite
+## Iniciando o projeto:
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Esse projeto foi feito com Vite.js um bundler para resolver os problema de ecmas_module nativos, assim com o vite aceitando todos o ecmas scripts fica melhor a experiencia do usuario, independente do navegador que ele utiliza
 
-## Recommended IDE Setup
+### Setup inicial
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+npm install ou pode ser usado npm install --force
+
+
+### Compilação para desenvolvimento
+
+npm run dev
+
+Ao compilar favor clicar no Localhost indicado no terminal da aplicação
+
+
+
+
